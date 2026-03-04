@@ -1,0 +1,50 @@
+SUM OF FIRST N NATURAL NUMBERS USING RECURSION
+
+Problem Statement:
+Given an integer N, return the sum of the first N natural numbers using recursion.
+
+--------------------------------------------------
+
+Example 1
+
+Input:
+N = 4
+
+Output:
+10
+
+Explanation:
+First four natural numbers are:
+1, 2, 3, 4
+
+Sum:
+1 + 2 + 3 + 4 = 10
+
+--------------------------------------------------
+
+Example 2
+
+Input:
+N = 2
+
+Output:
+3
+
+Explanation:
+First two natural numbers are:
+1, 2
+
+Sum:
+1 + 2 = 3
+
+--------------------------------------------------
+
+Example 3
+
+Input:
+N = 10
+
+Output:
+55
+
+--------------------------------------------------

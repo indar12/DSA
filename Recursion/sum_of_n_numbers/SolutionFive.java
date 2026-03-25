@@ -1,4 +1,4 @@
-package DSA.Recursion.sum_of_n_numbers;
+package sum_of_n_numbers;
 
 // Formula approach - most efficient approach
 // Time Complexity: O(1)

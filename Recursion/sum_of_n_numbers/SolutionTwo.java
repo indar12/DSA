@@ -1,4 +1,4 @@
-package DSA.Recursion.sum_of_n_numbers;
+package sum_of_n_numbers;
 
 // Head Recursive approach
 // Time Complexity: O(N)

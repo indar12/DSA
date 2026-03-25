@@ -1,4 +1,4 @@
-package DSA.Recursion.sum_of_n_numbers;
+package sum_of_n_numbers;
 
 // Brute force approach
 // Time Complexity: O(N)

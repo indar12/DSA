@@ -1,4 +1,4 @@
-package DSA.Recursion.factorial_given_number;
+package factorial_given_number;
 
 // Head Recursive approach
 // Time Complexity: O(N)
